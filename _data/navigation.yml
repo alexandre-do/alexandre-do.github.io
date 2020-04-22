@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Model Explanation"
-    url: /model-explanation/
+  - title: "Machine Learning"
+    url: /machine-learning/
   - title: "Deep Learning"
     url: /deep-learning/
   - title: "Data Visualization"

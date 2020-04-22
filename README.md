@@ -1,6 +1,7 @@
 
 ## Structure directory
 
+```
 ├── CHANGELOG.md
 ├── Gemfile
 ├── LICENSE.txt

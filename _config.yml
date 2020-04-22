@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Alexandre DO"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Your Location"
+  bio              : "A happy data scientist"
+  location         : "Paris France"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AlexandreDOMINH"
+  github           : "https://github.com/alexandre-do"
   gitlab           :
   google_plus      :
   keybase          :

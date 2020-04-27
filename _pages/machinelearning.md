@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /model-explanation/
+permalink: /machine-learning/
 title: "Model Explanation Methods"
 author_profile: true
 header:

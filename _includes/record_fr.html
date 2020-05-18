@@ -1,0 +1,84 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.3.4.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="dd71ed97-01d0-414c-8d0a-cb3bc4acb46b" data-root-id="9535"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="9739">
+          {"98b4c390-52ab-40cb-a766-0371935115a9":{"roots":{"references":[{"attributes":{"data_source":{"id":"9619","type":"ColumnDataSource"},"glyph":{"id":"9625","type":"HBar"},"hover_glyph":null,"muted_glyph":null,"name":"Male","nonselection_glyph":{"id":"9626","type":"HBar"},"selection_glyph":null,"view":{"id":"9628","type":"CDSView"}},"id":"9627","type":"GlyphRenderer"},{"attributes":{"callback":null,"point_policy":"follow_mouse","show_arrow":false,"tooltips":[["Year","@years"],["Female","@hoversex"],["Number of medals","@hovermedal"]]},"id":"9569","type":"HoverTool"},{"attributes":{"source":{"id":"9619","type":"ColumnDataSource"}},"id":"9628","type":"CDSView"},{"attributes":{"fields":["Number Gold","Number Silver"]},"id":"9575","type":"Stack"},{"attributes":{"below":[{"id":"9546","type":"LinearAxis"}],"center":[{"id":"9550","type":"Grid"},{"id":"9555","type":"Grid"},{"id":"9589","type":"Legend"},{"id":"9645","type":"BoxAnnotation"},{"id":"9646","type":"Label"},{"id":"9647","type":"Label"},{"id":"9648","type":"Label"}],"left":[{"id":"9551","type":"LinearAxis"}],"outline_line_color":{"value":null},"plot_height":700,"renderers":[{"id":"9581","type":"GlyphRenderer"},{"id":"9594","type":"GlyphRenderer"},{"id":"9608","type":"GlyphRenderer"},{"id":"9627","type":"GlyphRenderer"},{"id":"9632","type":"GlyphRenderer"}],"title":{"id":"9536","type":"Title"},"toolbar":{"id":"9562","type":"Toolbar"},"toolbar_location":null,"x_range":{"id":"9538","type":"Range1d"},"x_scale":{"id":"9542","type":"LinearScale"},"y_range":{"id":"9540","type":"Range1d"},"y_scale":{"id":"9544","type":"LinearScale"}},"id":"9535","subtype":"Figure","type":"Plot"},{"attributes":{"fill_color":{"value":"goldenrod"},"height":{"value":1.6},"left":{"expr":{"id":"9576","type":"Stack"}},"line_color":{"value":"grey"},"right":{"expr":{"id":"9577","type":"Stack"}},"y":{"field":"years"}},"id":"9606","type":"HBar"},{"attributes":{"fields":["Number Gold","Number Silver"]},"id":"9576","type":"Stack"},{"attributes":{"source":{"id":"9571","type":"ColumnDataSource"}},"id":"9582","type":"CDSView"},{"attributes":{"fill_alpha":{"value":0.9},"fill_color":{"value":"deeppink"},"height":{"value":1},"left":{"expr":{"id":"9622","type":"Stack"}},"line_alpha":{"value":0.9},"line_color":{"value":"deeppink"},"right":{"expr":{"id":"9623","type":"Stack"}},"y":{"field":"years"}},"id":"9630","type":"HBar"},{"attributes":{"fields":["Number Gold"]},"id":"9573","type":"Stack"},{"attributes":{"fields":["Number Gold","Number Silver","Number Bronze"]},"id":"9577","type":"Stack"},{"attributes":{},"id":"9584","type":"BasicTickFormatter"},{"attributes":{},"id":"9544","type":"LinearScale"},{"attributes":{"fill_color":{"value":"yellow"},"height":{"value":1.6},"left":{"expr":{"id":"9572","type":"Stack"}},"line_color":{"value":"grey"},"right":{"expr":{"id":"9573","type":"Stack"}},"y":{"field":"years"}},"id":"9579","type":"HBar"},{"attributes":{"source":{"id":"9619","type":"ColumnDataSource"}},"id":"9633","type":"CDSView"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"height":{"value":1},"left":{"expr":{"id":"9622","type":"Stack"}},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"right":{"expr":{"id":"9623","type":"Stack"}},"y":{"field":"years"}},"id":"9631","type":"HBar"},{"attributes":{"data_source":{"id":"9619","type":"ColumnDataSource"},"glyph":{"id":"9630","type":"HBar"},"hover_glyph":null,"muted_glyph":null,"name":"Female","nonselection_glyph":{"id":"9631","type":"HBar"},"selection_glyph":null,"view":{"id":"9633","type":"CDSView"}},"id":"9632","type":"GlyphRenderer"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"height":{"value":1.6},"left":{"expr":{"id":"9572","type":"Stack"}},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"right":{"expr":{"id":"9573","type":"Stack"}},"y":{"field":"years"}},"id":"9580","type":"HBar"},{"attributes":{"data_source":{"id":"9571","type":"ColumnDataSource"},"glyph":{"id":"9579","type":"HBar"},"hover_glyph":null,"muted_glyph":null,"name":"Number Gold","nonselection_glyph":{"id":"9580","type":"HBar"},"selection_glyph":null,"view":{"id":"9582","type":"CDSView"}},"id":"9581","type":"GlyphRenderer"},{"attributes":{},"id":"9641","type":"Selection"},{"attributes":{},"id":"9552","type":"BasicTicker"},{"attributes":{"label":{"value":"Female %"},"renderers":[{"id":"9632","type":"GlyphRenderer"}]},"id":"9644","type":"LegendItem"},{"attributes":{"fill_color":{"value":"lightgray"},"height":{"value":1.6},"left":{"expr":{"id":"9574","type":"Stack"}},"line_color":{"value":"grey"},"right":{"expr":{"id":"9575","type":"Stack"}},"y":{"field":"years"}},"id":"9592","type":"HBar"},{"attributes":{"items":[{"id":"9590","type":"LegendItem"},{"id":"9604","type":"LegendItem"},{"id":"9618","type":"LegendItem"},{"id":"9644","type":"LegendItem"}]},"id":"9589","type":"Legend"},{"attributes":{},"id":"9642","type":"UnionRenderers"},{"attributes":{"callback":null,"end":2020,"start":1880},"id":"9540","type":"Range1d"},{"attributes":{},"id":"9586","type":"BasicTickFormatter"},{"attributes":{"ticker":{"id":"9547","type":"BasicTicker"}},"id":"9550","type":"Grid"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"9588","type":"BoxAnnotation"},{"attributes":{"text":"A","text_alpha":{"value":0.4},"text_color":{"value":"grey"},"text_font_size":{"value":"65px"},"x":90,"y":1950},"id":"9648","type":"Label"},{"attributes":{"label":{"value":"Gold"},"renderers":[{"id":"9581","type":"GlyphRenderer"}]},"id":"9590","type":"LegendItem"},{"attributes":{"callback":null,"end":125,"start":-60},"id":"9538","type":"Range1d"},{"attributes":{"text":"France at the Olympic Games"},"id":"9536","type":"Title"},{"attributes":{"text":"R","text_alpha":{"value":0.4},"text_color":{"value":"grey"},"text_font_size":{"value":"65px"},"x":75,"y":1950},"id":"9647","type":"Label"},{"attributes":{"fields":["Number Gold"]},"id":"9574","type":"Stack"},{"attributes":{},"id":"9601","type":"Selection"},{"attributes":{},"id":"9602","type":"UnionRenderers"},{"attributes":{"axis_label":"Compostion of team (femal-male)    Number of medals","bounds":[0,120],"formatter":{"id":"9584","type":"BasicTickFormatter"},"minor_tick_line_color":{"value":null},"ticker":{"id":"9547","type":"BasicTicker"}},"id":"9546","type":"LinearAxis"},{"attributes":{},"id":"9547","type":"BasicTicker"},{"attributes":{"source":{"id":"9571","type":"ColumnDataSource"}},"id":"9595","type":"CDSView"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"height":{"value":1.6},"left":{"expr":{"id":"9574","type":"Stack"}},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"right":{"expr":{"id":"9575","type":"Stack"}},"y":{"field":"years"}},"id":"9593","type":"HBar"},{"attributes":{"data_source":{"id":"9571","type":"ColumnDataSource"},"glyph":{"id":"9592","type":"HBar"},"hover_glyph":null,"muted_glyph":null,"name":"Number Silver","nonselection_glyph":{"id":"9593","type":"HBar"},"selection_glyph":null,"view":{"id":"9595","type":"CDSView"}},"id":"9594","type":"GlyphRenderer"},{"attributes":{},"id":"9542","type":"LinearScale"},{"attributes":{"dimension":1,"grid_line_color":null,"ticker":{"id":"9552","type":"BasicTicker"}},"id":"9555","type":"Grid"},{"attributes":{"axis_label":"Year","formatter":{"id":"9586","type":"BasicTickFormatter"},"minor_tick_line_color":{"value":null},"ticker":{"id":"9552","type":"BasicTicker"}},"id":"9551","type":"LinearAxis"},{"attributes":{"fill_alpha":{"value":0.3},"fill_color":{"value":"seashell"},"left":-60,"right":0},"id":"9645","type":"BoxAnnotation"},{"attributes":{"label":{"value":"Silver"},"renderers":[{"id":"9594","type":"GlyphRenderer"}]},"id":"9604","type":"LegendItem"},{"attributes":{"source":{"id":"9571","type":"ColumnDataSource"}},"id":"9609","type":"CDSView"},{"attributes":{"callback":null,"data":{"Female":[-17.040816326530614,-17.530864197530864,-15.663430420711975,-14.675324675324674,-14.880952380952381,-13.645484949832776,-11.563421828908556,-11.12781954887218,-8.235294117647058,-7.603305785123967,-5.631067961165048,-5.286343612334802,-6.2,-5.797101449275362,-4.705882352941177,-4.9655172413793105,-5.061224489795918,-4.6835443037974684,-2.189054726368159,-2.3300970873786406,-5.647058823529411,-3.092269326683292,-1.0526315789473684,-0.3361344537815126,-0.0,-0.7142857142857142,-0.0,-0.6703910614525139,-0.0],"Male":[-22.95918367346939,-22.46913580246914,-24.336569579288025,-25.324675324675322,-25.11904761904762,-26.354515050167223,-28.436578171091448,-28.872180451127818,-31.76470588235294,-32.396694214876035,-34.36893203883495,-34.713656387665196,-33.8,-34.20289855072464,-35.294117647058826,-35.03448275862069,-34.93877551020408,-35.31645569620253,-37.810945273631845,-37.66990291262136,-34.35294117647059,-36.907730673316706,-38.94736842105263,-39.66386554621849,-40.0,-39.285714285714285,-40.0,-39.32960893854749,-40.0],"hovermedal":["10 18 14","11 11 13","7 16 18","11 9 13","13 14 11","15 7 15","8 5 16","6 4 6","5 7 16","6 5 3","2 3 4","2 4 7","7 3 5","1 8 6","0 2 3","4 4 6","6 6 6","11 6 15","7 6 6","11 5 4","7 12 6","14 14 12","9 20 13","7 5 3","5 5 9","15 10 16","0 2 0","28 40 34","5 4 2"],"hoversex":["42.6% ","43.8% ","39.2% ","36.7% ","37.2% ","34.1% ","28.9% ","27.8% ","20.6% ","19.0% ","14.1% ","13.2% ","15.5% ","14.5% ","11.8% ","12.4% ","12.7% ","11.7% ","5.5% ","5.8% ","14.1% ","7.7% ","2.6% ","0.8% ","0.0% ","1.8% ","0.0% ","1.7% ","0.0% "],"years":[2016,2012,2008,2004,2000,1996,1992,1988,1984,1980,1976,1972,1968,1964,1960,1956,1952,1948,1936,1932,1928,1924,1920,1912,1908,1906,1904,1900,1896]},"selected":{"id":"9641","type":"Selection"},"selection_policy":{"id":"9642","type":"UnionRenderers"}},"id":"9619","type":"ColumnDataSource"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"height":{"value":1.6},"left":{"expr":{"id":"9576","type":"Stack"}},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"right":{"expr":{"id":"9577","type":"Stack"}},"y":{"field":"years"}},"id":"9607","type":"HBar"},{"attributes":{"data_source":{"id":"9571","type":"ColumnDataSource"},"glyph":{"id":"9606","type":"HBar"},"hover_glyph":null,"muted_glyph":null,"name":"Number Bronze","nonselection_glyph":{"id":"9607","type":"HBar"},"selection_glyph":null,"view":{"id":"9609","type":"CDSView"}},"id":"9608","type":"GlyphRenderer"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"9556","type":"PanTool"},{"id":"9557","type":"WheelZoomTool"},{"id":"9558","type":"BoxZoomTool"},{"id":"9559","type":"SaveTool"},{"id":"9560","type":"ResetTool"},{"id":"9561","type":"HelpTool"},{"id":"9569","type":"HoverTool"}]},"id":"9562","type":"Toolbar"},{"attributes":{"callback":null,"data":{"Number Bronze":[14.0,13.0,18.0,13.0,11.0,15.0,16.0,6.0,16.0,3.0,4.0,7.0,5.0,6.0,3.0,6.0,6.0,15.0,6.0,4.0,6.0,12.0,13.0,3.0,9.0,16.0,0.0,34.0,2.0],"Number Gold":[10.0,11.0,7.0,11.0,13.0,15.0,8.0,6.0,5.0,6.0,2.0,2.0,7.0,1.0,0.0,4.0,6.0,11.0,7.0,11.0,7.0,14.0,9.0,7.0,5.0,15.0,0.0,28.0,5.0],"Number Silver":[18,11,16,9,14,7,5,4,7,5,3,4,3,8,2,4,6,6,6,5,12,14,20,5,5,10,2,40,4],"hovermedal":["10 18 14","11 11 13","7 16 18","11 9 13","13 14 11","15 7 15","8 5 16","6 4 6","5 7 16","6 5 3","2 3 4","2 4 7","7 3 5","1 8 6","0 2 3","4 4 6","6 6 6","11 6 15","7 6 6","11 5 4","7 12 6","14 14 12","9 20 13","7 5 3","5 5 9","15 10 16","0 2 0","28 40 34","5 4 2"],"hoversex":["42.6% ","43.8% ","39.2% ","36.7% ","37.2% ","34.1% ","28.9% ","27.8% ","20.6% ","19.0% ","14.1% ","13.2% ","15.5% ","14.5% ","11.8% ","12.4% ","12.7% ","11.7% ","5.5% ","5.8% ","14.1% ","7.7% ","2.6% ","0.8% ","0.0% ","1.8% ","0.0% ","1.7% ","0.0% "],"years":[2016,2012,2008,2004,2000,1996,1992,1988,1984,1980,1976,1972,1968,1964,1960,1956,1952,1948,1936,1932,1928,1924,1920,1912,1908,1906,1904,1900,1896]},"selected":{"id":"9601","type":"Selection"},"selection_policy":{"id":"9602","type":"UnionRenderers"}},"id":"9571","type":"ColumnDataSource"},{"attributes":{"fields":[]},"id":"9572","type":"Stack"},{"attributes":{"fields":[]},"id":"9620","type":"Stack"},{"attributes":{},"id":"9556","type":"PanTool"},{"attributes":{"text":"F","text_alpha":{"value":0.4},"text_color":{"value":"grey"},"text_font_size":{"value":"65px"},"x":60,"y":1950},"id":"9646","type":"Label"},{"attributes":{"label":{"value":"Bronze"},"renderers":[{"id":"9608","type":"GlyphRenderer"}]},"id":"9618","type":"LegendItem"},{"attributes":{},"id":"9557","type":"WheelZoomTool"},{"attributes":{"overlay":{"id":"9588","type":"BoxAnnotation"}},"id":"9558","type":"BoxZoomTool"},{"attributes":{},"id":"9561","type":"HelpTool"},{"attributes":{"fields":["Male"]},"id":"9621","type":"Stack"},{"attributes":{},"id":"9559","type":"SaveTool"},{"attributes":{"fields":["Male"]},"id":"9622","type":"Stack"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"height":{"value":1},"left":{"expr":{"id":"9620","type":"Stack"}},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"right":{"expr":{"id":"9621","type":"Stack"}},"y":{"field":"years"}},"id":"9626","type":"HBar"},{"attributes":{},"id":"9560","type":"ResetTool"},{"attributes":{"fields":["Male","Female"]},"id":"9623","type":"Stack"},{"attributes":{"fill_alpha":{"value":0.9},"fill_color":{"value":"white"},"height":{"value":1},"left":{"expr":{"id":"9620","type":"Stack"}},"line_alpha":{"value":0.9},"line_color":{"value":"white"},"right":{"expr":{"id":"9621","type":"Stack"}},"y":{"field":"years"}},"id":"9625","type":"HBar"}],"root_ids":["9535"]},"title":"Bokeh Application","version":"1.3.4"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('9739').textContent;
+                  var render_items = [{"docid":"98b4c390-52ab-40cb-a766-0371935115a9","roots":{"9535":"dd71ed97-01d0-414c-8d0a-cb3bc4acb46b"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>

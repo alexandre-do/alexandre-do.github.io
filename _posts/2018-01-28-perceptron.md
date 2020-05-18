@@ -50,7 +50,7 @@ head(df)
 ```
                                                                                         
 Here's an exmple of Bokeh:   
-![olympic]({{ site.url }}{{ site.baseurl }}/images/olympic/olympic.gif =300x100)
+<img src="{{ site.url }}{{ site.baseurl }}/images/olympic/olympic.gif" width="300" height="100">
   
 {% include record_fr.html %}
 

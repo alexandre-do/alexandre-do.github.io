@@ -49,10 +49,12 @@ df <- read_csv("some_file.csv")
 head(df)
 ```
                                                                                         
-Here's an exmple of Bokeh: 
+Here's an exmple of Bokeh:   
 ![olympic]({{ site.url }}{{ site.baseurl }}/images/olympic/olympic.gif =300x100)
-
+  
 {% include record_fr.html %}
+
+
 Here's some inline code `x+y`.
 Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">

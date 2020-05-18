@@ -48,6 +48,8 @@ library(tidyverse)
 df <- read_csv("some_file.csv")
 head(df)
 ```
+Here's an exmple of Bokeh: 
+<img src="https://github.com/alexandre-do/DataViz/tree/master/GIF/olympic.gif" width=1000>
 
 Here's some inline code `x+y`.
 

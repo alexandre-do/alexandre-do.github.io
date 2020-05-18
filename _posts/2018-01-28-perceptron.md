@@ -40,7 +40,7 @@ Python code block:
       z = np.sum(x,y)
       return z
 ```
-{% include record_fr.html %}
+
 
 R code block:
 ```r

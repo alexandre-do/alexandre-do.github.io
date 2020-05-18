@@ -49,9 +49,10 @@ df <- read_csv("some_file.csv")
 head(df)
 ```
 Here's an exmple of Bokeh:   
-<img src="https://github.com/alexandre-do/DataViz/tree/master/GIF/olympic.gif" width=100 height="100" />
-
-![](https://github.com/alexandre-do/DataViz/tree/master/GIF/olympic.gif)
+<img src={{ site.url }}{{ site.baseurl }}/images/olympic/olympic.gif" width=100 height="100" />
+                                                                                            
+Here's an exmple of Bokeh: 
+![olympic]({{ site.url }}{{ site.baseurl }}/images/olympic/olympic.gif)
 Here's some inline code `x+y`.
 
 Here's an image:

@@ -2,7 +2,6 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
 ---
 Alexandre DO is a data scientist working in Paris.   
 In 2012, he enrolled to the polytechnicien engineering program of the Ecole Polytechnique.   

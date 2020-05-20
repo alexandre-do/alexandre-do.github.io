@@ -85,7 +85,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexandre DO"
+  name             : 
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A happy data scientist"
   location         : "Paris France"

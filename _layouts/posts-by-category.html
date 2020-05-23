@@ -6,7 +6,7 @@ layout: archive
 
 {% assign postsByCategory = site.tag | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for tag in postsByCategory %}
-  <section id="{{ year.name }}" class="taxonomy__section">
+  <section id="{{ tag.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ tag.name }}</h2>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
       {% for post in tag.items %}

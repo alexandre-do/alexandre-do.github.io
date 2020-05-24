@@ -1,16 +1,15 @@
 ---
 layout: archive
 ---
-<img src="images/funny.gif" alt=”animated” width="400px" height='200px'/>
+<img src="images/funny.gif" alt=”animated” width="900px" height='300px'/>
+
+<h3>Hi and welcome to my blog!  
+
+My name's Alexandre DO. I'm a data scientist who works.   
+You can read more about me on my about page.  
 
 
-
-<h3>Hi and welcome to my blog!</h3>
-
-<p>My name's Alexandre DO. I'm a data scientist who works.</p> 
-
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<p class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</p>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}

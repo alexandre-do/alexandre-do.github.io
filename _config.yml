@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-FR"
-title                    : "AlexDO's blog"
+title                    : "Alex's blog"
 title_separator          : "-"
 name                     : 
 description              : "Data Science Portfolio"
@@ -89,7 +89,7 @@ author:
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A happy data scientist"
   location         : "Paris France"
-  email            :
+  email            : "alexdo.polytech@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :

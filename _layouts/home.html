@@ -9,7 +9,7 @@ My name's Alexandre DO. I'm a data scientist who works.
 You can read more about me on my about page.  
 
 
-<p class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</p>
+<h5 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h5>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}

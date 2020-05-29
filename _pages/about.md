@@ -1,14 +1,14 @@
 ---
 layout: cv
 permalink: /about/
-title:  
+title:  Alexandre DO
 author_profile: True
 header:
 image:
 ---
 
 
-## Currently
+###Ò Currently
 
    - I'm data scientist in banking and financial services. I hold an engineering degree of [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) one of the most prestigious Grand Ecoles in France and two master's degrees of data science of [ENSAE ParisTech](https://www.ensae.fr/en/) & [University Paris 7](https://masterfinance.math.univ-paris-diderot.fr/index.php) 
 
@@ -20,7 +20,7 @@ image:
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-## Experience
+### Experience
 `2017-Now|La Défense, FR`  
     __Société Générale, Risk Departement Datalab.__  
     - Senior Data Scientist.  
@@ -33,7 +33,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
     - Data Scientist Trainee.      
 
 
-## Education
+### Education
 
 `2012-2016|Palaiseau, FR`
 __Ecole Polytechnique__
@@ -54,7 +54,7 @@ __University Paris 7__
 __University Paris 6__
 - B.S in Mathematics
 
-## Awards
+### Awards
 
 `2012`
 President, *Royal Society*, London, UK

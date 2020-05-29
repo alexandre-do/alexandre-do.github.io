@@ -1,5 +1,6 @@
 ---
 layout: cv
+permalink: /about/
 title: Isaac Newtons's CV
 ---
 # Isaac Newton

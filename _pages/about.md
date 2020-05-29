@@ -1,7 +1,10 @@
 ---
 layout: cv
 permalink: /about/
-title: Isaac Newtons's CV
+title: Alexandre DO's CV
+author_profile: true
+header:
+image:
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.

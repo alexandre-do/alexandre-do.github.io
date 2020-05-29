@@ -16,21 +16,22 @@ image:
 
 
 
-### Data Science interests
+### Interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ### Experience
 `2017-Now|La Défense, FR`  
     __Société Générale, Risk Departement Datalab.__  
-    - Senior Data Scientist.  
+   - Senior Data Scientist.  
+   
 `June 2016-Dec 2016|La Défense, FR`  
     __Société Générale, Financial Market__  
-     - Data Scientist Trainee.  
+   - Data Scientist Trainee.  
 
 `Apr 2015-Sep 2015|Paris, FR`  
     __Crédit Agricole  DataLab__  
-    - Data Scientist Trainee.      
+   - Data Scientist Trainee.      
 
 
 ### Education

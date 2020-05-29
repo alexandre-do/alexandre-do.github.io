@@ -18,7 +18,7 @@ image:
 `Deep Learning, NLP, Model Deployment, Leveraging data analytics`
 
 ### Experience
- **Société Générale, Risk Departement Datalab** 
+ **Société Générale, Risk Departement Datalab**   
  `2017-Now|La Défense, FR`   
  `Senior Data Scientist`  
  

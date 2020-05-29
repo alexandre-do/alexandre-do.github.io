@@ -10,7 +10,7 @@ image:
 
 ## Currently
 
-I'm data scientist in banking and financial services. I hold an engineering degree of [**Ecole Polytechnique**](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) one of the most prestigious Grand Ecoles in France and two master's degrees of data science of [**ENSAE ParisTech**](https://www.ensae.fr/en/) & **University Paris 7** 
+    I'm data scientist in banking and financial services. I hold an engineering degree of [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) one of the most prestigious Grand Ecoles in France and two master's degrees of data science of [ENSAE ParisTech](https://www.ensae.fr/en/) & [University Paris 7](https://masterfinance.math.univ-paris-diderot.fr/index.php) 
 
 ### Specialized in
 
@@ -21,16 +21,13 @@ I'm data scientist in banking and financial services. I hold an engineering degr
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Experience
-`2017-Now|La Défense, FR`
-
+`2017-Now|La Défense, FR`  
 __Société Générale, Risk Departement Datalab.__
 
 `June 2016-Dec 2016|La Défense, FR`  
-
 __Société Générale, Financial Market| Data Scientist Trainee__  
 
 `Apr 2015-Sep 2015|Paris, FR`  
-
 __Crédit Agricole  DataLab |Data Scientist Trainee__    
 
 
@@ -39,7 +36,7 @@ __Crédit Agricole  DataLab |Data Scientist Trainee__
 `2012-2016|Palaiseau, FR`
 __Ecole Polytechnique__
 
-- Engineering degree( [Ingénieur Polytechnicien Program](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) )
+- Engineering degree( Ingénieur Polytechnicien Program. 
 - Majors in Applied Mathematics with multidisciplinary scientific and leadership training. 
 
 `2015 - 2016|Paris, FR`
@@ -49,8 +46,6 @@ __ENSAE ParisTech__
 
 `2015 - 2016|Paris, FR `
 __University Paris 7__
-
-- [M2 Modélisation Aléatoire](https://masterfinance.math.univ-paris-diderot.fr/index.php)
 - Master of mathematics for Finance and Data Science. 
 
 `2011 - 2012|Paris, FR `

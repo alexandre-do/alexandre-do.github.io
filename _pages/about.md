@@ -12,13 +12,10 @@ image:
     
    `I'm data scientist in banking and financial services. I hold an engineering degree of Ecole Polytechnique one of the most prestigious Grand Ecoles in France and two master's degrees of data science of ENSAE ParisTech & University Paris 7`
 
-### Specialized in
-
-
 
 ### Interests
 
-`Cooling, power series, optics, alchemy, planetary motions, apples`
+`Deep Learning, NLP, Model Deployment, Leveraging data analytics`
 
 ### Experience
  **Société Générale, Risk Departement Datalab** 

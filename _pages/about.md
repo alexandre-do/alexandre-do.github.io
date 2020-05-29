@@ -36,7 +36,7 @@ __Crédit Agricole  DataLab |Data Scientist Trainee__
 `2012-2016|Palaiseau, FR`
 __Ecole Polytechnique__
 
-- Engineering degree( Ingénieur Polytechnicien Program. 
+- Engineering degree - Ingénieur Polytechnicien Program. 
 - Majors in Applied Mathematics with multidisciplinary scientific and leadership training. 
 
 `2015-2016|Paris, FR`

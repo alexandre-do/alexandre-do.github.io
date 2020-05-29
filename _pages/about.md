@@ -10,7 +10,7 @@ image:
 
 ### Currently
     
-   I'm data scientist in banking and financial services. I hold an engineering degree of Ecole Polytechnique one of the most prestigious Grand Ecoles in France and two master's degrees of data science of ENSAE ParisTech & University Paris 7`
+   `I'm data scientist in banking and financial services. I hold an engineering degree of Ecole Polytechnique one of the most prestigious Grand Ecoles in France and two master's degrees of data science of ENSAE ParisTech & University Paris 7`
 
 ### Specialized in
 
@@ -18,7 +18,7 @@ image:
 
 ### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ### Experience
 `2017-Now|La Défense, FR`  
@@ -48,16 +48,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `2015-2016|Paris, FR `  
     __University Paris 7__  
         `Master of mathematics for Finance and Data Science.`
-### Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
-<!-- ### Footer
-Last updated: May 2013 -->
 
 

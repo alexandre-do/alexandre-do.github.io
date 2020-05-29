@@ -5,7 +5,7 @@ layout: archive
 
 <h3> Hi and welcome to my blog! </h3>
 
-<h3>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h5>
+<h3>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
  <h5>{% include archive-single.html %}</h5>

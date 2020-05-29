@@ -7,14 +7,6 @@ header:
 image:
 ---
 
-Data scientist.
-
-<div id="webaddress">
-<a href="alexdo.polytech@gmail.com">alexdo.polytech@gmail.com</a>
-| <a href="https://www.linkedin.com/in/alexandre-do-7500/">Linkedin page</a>
-| <a href="https://github.com/alexandre-do/">GitHub page</a>
-</div>
-
 
 ## Currently
 
@@ -30,30 +22,39 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Experience
 `2017-Now|La Défense, FR`
+
 __Société Générale, Risk Departement Datalab.__
+
 `June 2016-Dec 2016|La Défense, FR`  
+
 __Société Générale, Financial Market| Data Scientist Trainee__  
+
 `Apr 2015-Sep 2015|Paris, FR`  
+
 __Crédit Agricole  DataLab |Data Scientist Trainee__    
 
 
 ## Education
 
-`2012-2016`
-__Ecole Polytechnique, Palaiseau.__
+`2012-2016|Palaiseau, FR`
+__Ecole Polytechnique__
+
 - Engineering degree( [Ingénieur Polytechnicien Program](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) )
 - Majors in Applied Mathematics with multidisciplinary scientific and leadership training. 
 
-`2015 - 2016`
-__ENSAE ParisTech, Paris__
+`2015 - 2016|Paris, FR`
+__ENSAE ParisTech__
+
 - Engineering degree of Data Science, Econometrics and Statistics. 
 
-`2015 - 2016 `
-__University Paris 7, Paris__
+`2015 - 2016|Paris, FR `
+__University Paris 7__
+
 - [M2 Modélisation Aléatoire](https://masterfinance.math.univ-paris-diderot.fr/index.php)
 - Master of mathematics for Finance and Data Science. 
-`2011 - 2012 `
-__University Paris 6, Paris__
+
+`2011 - 2012|Paris, FR `
+__University Paris 6__
 - B.S in Mathematics
 
 

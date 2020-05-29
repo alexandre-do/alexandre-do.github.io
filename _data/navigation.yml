@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Machine Learning"
     url: /machine-learning/
   - title: "Deep Learning"
     url: /deep-learning/
   - title: "Data Visualization"
     url: /data-viz/
-  - title: "Note"
+  - title: "More"
     url: /note/
+  - title: "About"
+    url: /about/

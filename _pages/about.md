@@ -6,6 +6,7 @@ author_profile: true
 header:
 image:
 ---
+
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 

@@ -39,20 +39,18 @@ __Ecole Polytechnique__
 - Engineering degree( Ingénieur Polytechnicien Program. 
 - Majors in Applied Mathematics with multidisciplinary scientific and leadership training. 
 
-`2015 - 2016|Paris, FR`
+`2015-2016|Paris, FR`
 __ENSAE ParisTech__
 
 - Engineering degree of Data Science, Econometrics and Statistics. 
 
-`2015 - 2016|Paris, FR `
+`2015-2016|Paris, FR `
 __University Paris 7__
 - Master of mathematics for Finance and Data Science. 
 
-`2011 - 2012|Paris, FR `
+`2011-2012|Paris, FR `
 __University Paris 6__
 - B.S in Mathematics
-
-
 
 ## Awards
 

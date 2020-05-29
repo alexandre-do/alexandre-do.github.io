@@ -1,40 +1,22 @@
 ---
-layout: default
+layout: archive
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
-{% endif %}
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+    <link href="assets/css/kjhealy-screen.css" type="text/css" rel="stylesheet" media="screen">
+    <link href="assets/css/kjhealy-print.css" type="text/css" rel="stylesheet" media="print">
+  </head>
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    <div id="main">
+    <div id="content">
+      {{ content }}
+    </div>
+    </div>
+  </body>
+</html>
 
-<div id="main" role="main">
-  {% include sidebar.html %}
-  <div class="archive">
-    <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-    <head>
-      {% include head.html %}
-      {% include head/custom.html %}
-      <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-      <link href="assets/css/kjhealy-screen.css" type="text/css" rel="stylesheet" media="screen">
-      <link href="assets/css/kjhealy-print.css" type="text/css" rel="stylesheet" media="print">
-    </head>
-
-    <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-      <div id="main">
-        <div id="content">
-        {{ content }}
-        </div>
-      </div>
-    </body>
-    </html>
-
-  <div>
-
-</div>

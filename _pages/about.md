@@ -8,7 +8,7 @@ image:
 ---
 
 
-###Ò Currently
+### Currently
 
    - I'm data scientist in banking and financial services. I hold an engineering degree of [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) one of the most prestigious Grand Ecoles in France and two master's degrees of data science of [ENSAE ParisTech](https://www.ensae.fr/en/) & [University Paris 7](https://masterfinance.math.univ-paris-diderot.fr/index.php) 
 
@@ -36,22 +36,22 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ### Education
 
-`2012-2016|Palaiseau, FR`
+`2012-2016|Palaiseau, FR`  
 __Ecole Polytechnique__
 
 - Engineering degree - Ingénieur Polytechnicien Program. 
 - Majors in Applied Mathematics with multidisciplinary scientific and leadership training. 
 
-`2015-2016|Paris, FR`
+`2015-2016|Paris, FR`  
 __ENSAE ParisTech__
 
 - Engineering degree of Data Science, Econometrics and Statistics. 
 
-`2015-2016|Paris, FR `
+`2015-2016|Paris, FR `  
 __University Paris 7__
 - Master of mathematics for Finance and Data Science. 
 
-`2011-2012|Paris, FR `
+`2011-2012|Paris, FR `  
 __University Paris 6__
 - B.S in Mathematics
 

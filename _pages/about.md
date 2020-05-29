@@ -1,13 +1,12 @@
 ---
 layout: cv
 permalink: /about/
-title: 
-author_profile: false
+title:  
+author_profile: True
 header:
 image:
 ---
 
-## Alexandre DO 
 Data scientist.
 
 <div id="webaddress">
@@ -32,22 +31,10 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Experience
 `2017-Now|La Défense, FR`
 __Société Générale, Risk Departement Datalab.__
-   - Key responsibilities:  
-    - Work closely with internal clients across business lines to design data science solution to facilitate decision making and increase effectivity.  
-    - Contributor for Data science communities, internship tutor.
- 
 `June 2016-Dec 2016|La Défense, FR`  
 __Société Générale, Financial Market| Data Scientist Trainee__  
-    - Key responsibilities:  
-        - Developed state-of-art for  Anomaly Detection techniques for CDS Swaptions data.  
-        - Implemented advanced ML techniques such as multi-Gaussian, one class SVM , isolation RF, auto-encoder.
-
 `Apr 2015-Sep 2015|Paris, FR`  
 __Crédit Agricole  DataLab |Data Scientist Trainee__    
-    - Key responsibilities:   
-        - Developed the ML Ensemble methods to increase accuracy of scoring models.   
-        - Implemented advanced ML techniques such as Boosting, Stacking, Bagging, Bayesian.  
-        - Improved significantly the baseline models up to 3\% gain in accuracy.  
 
 
 ## Education
@@ -60,14 +47,11 @@ __Ecole Polytechnique, Palaiseau.__
 `2015 - 2016`
 __ENSAE ParisTech, Paris__
 - Engineering degree of Data Science, Econometrics and Statistics. 
-- Project: Link Prediction on Social Network.  
 
 `2015 - 2016 `
 __University Paris 7, Paris__
 - [M2 Modélisation Aléatoire](https://masterfinance.math.univ-paris-diderot.fr/index.php)
 - Master of mathematics for Finance and Data Science. 
-- Project: Topics modelling for Enron Email dataset.
-
 `2011 - 2012 `
 __University Paris 6, Paris__
 - B.S in Mathematics

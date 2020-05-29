@@ -10,7 +10,7 @@ image:
 
 ### Currently
     
-   `I'm data scientist in banking and financial services. I hold an engineering degree of Ecole Polytechnique one of the most prestigious Grand Ecoles in France and two master's degrees of data science of ENSAE ParisTech & University Paris 7`
+   `I'm data scientist working in banking and financial services. I hold an engineering degree of Ecole Polytechnique one of the most prestigious Grand Ecoles in France and two master's degrees of data science of ENSAE ParisTech & University Paris 7`
 
 
 ### Interests

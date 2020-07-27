@@ -3,16 +3,12 @@ layout: archive
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/images/funny.gif" alt=”animated” width="350px" height='250px'/>
 
-<h3>Hi and welcome to my blog! </h3>
+<p> Hi and welcome to my blog! </p>
 
-<p>My name's Alexandre DO. I'm a data scientist who works. </p>
-
-
-
-<h5>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h5>
+<h3>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+{% include archive-single.html %}
 {% endfor %}
 
 {% include paginator.html %}
